@@ -4,7 +4,7 @@
 
 ---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/fanakartal_?style=social)](https://twitter.com/intent/follow?screen_name=fanakartal_) [![Mastodon Follow](https://img.shields.io/mastodon/follow/12052?domain=https%3A%2F%2Fmastodon.gamedev.place&style=social)](https://mastodon.gamedev.place/web/accounts/12052#) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/fanakartal_?style=social)](https://twitter.com/intent/follow?screen_name=fanakartal_) [![Mastodon Follow](https://img.shields.io/mastodon/follow/12052?domain=https%3A%2F%2Fmastodon.gamedev.place&style=social)](https://mastodon.gamedev.place/users/fanakartal/remote_follow) 
 
 I am a computer engineer and a game developer. I work as a research assistant at IUE and also continue to my PhD thesis on AI in games.
 
