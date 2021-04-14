@@ -18,7 +18,7 @@ I am a computer engineer and a game developer. I work as a research assistant at
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanakartal&hide=hlsl&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanakartal&hide=hlsl,smalltalk&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanakartal&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
