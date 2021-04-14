@@ -2,6 +2,8 @@
 🔭 I’m currently working on C# and Java.
 🌱 I’m currently learning Python, Flutter & Dart.
 
+---
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/fanakartal_?style=social)](https://twitter.com/intent/follow?screen_name=fanakartal_) [![Mastodon Follow](https://img.shields.io/mastodon/follow/000012052?style=social)](https://mastodon.gamedev.place/web/accounts/12052#)
 
 I am a computer engineer and a game developer. I work as a research assistant at IUE and also continue to my PhD thesis on AI in games.
@@ -14,11 +16,9 @@ I am a computer engineer and a game developer. I work as a research assistant at
 
 ---
 
----
-
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanakartal&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanakartal&hide=hlsl&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanakartal&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
